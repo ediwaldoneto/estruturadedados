@@ -1,4 +1,4 @@
-package Lista01;
+package at01;
 
 public class Exercicio01 {
 

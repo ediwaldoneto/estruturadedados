@@ -1,8 +1,8 @@
-package Lista01;
+package at02;
 
 import java.util.Arrays;
 
-public class Exercicios04 {
+public class Atividade02 {
 
 	public static void main(String[] args) {
 		int[] array1 = { 1, 2, 3, 4, 5 };
