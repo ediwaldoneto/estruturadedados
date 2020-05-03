@@ -13,6 +13,10 @@ public class TestePilha {
 		p.push("Zezinho");
 		p.exibePilha();
 		p.pop();
+		p.exibePilha();
+		p.pop();
+		p.exibePilha();
+		p.pop();
 		
 		
 		//System.out.println("Elemento removido " + p.pop());

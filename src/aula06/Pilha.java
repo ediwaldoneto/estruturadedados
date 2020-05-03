@@ -42,7 +42,7 @@ public class Pilha {
 	}
 
 	public void pop() {
-		
+		topo = topo.getProximo();
 				
 	}
 		
